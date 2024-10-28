@@ -1,1 +1,3 @@
-# Repositório de exercicíos curso front-end trybe
+# Meu repositório de exercicios
+
+Exercicios que fiz enquanto cursava curso front-end trybe
