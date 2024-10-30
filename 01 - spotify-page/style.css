@@ -97,9 +97,17 @@ header div {
     font-size: 30px;
 }
 
+.section-why-premium h4{
+    display: ruby-text;
+}
+
+.section-why-premium p {
+    display: ruby-text;
+}
+
 .premium-items {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 
 .premium-items img {
